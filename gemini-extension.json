@@ -1,0 +1,10 @@
+{
+  "name": "webstory",
+  "version": "1.0.0",
+  "description": "Work on your Webstory stories from Gemini: edit drafts, add photos and videos, share reels, and read numbers, comments, chats and orders.",
+  "mcpServers": {
+    "webstory": {
+      "httpUrl": "https://webstoryapp.com/mcp"
+    }
+  }
+}

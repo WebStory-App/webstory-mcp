@@ -1,0 +1,10 @@
+{
+  "name": "webstory",
+  "version": "1.0.0",
+  "description": "Work on your Webstory stories from your AI assistant: edit drafts, add photos and videos, share reels, and read numbers, comments, chats and orders.",
+  "homepage": "https://docs.webstoryapp.com/agents",
+  "repository": "https://github.com/WebStory-App/webstory-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["webstory", "stories", "reels", "marketing", "mcp"]
+}
