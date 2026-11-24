@@ -9,7 +9,7 @@ Connect Webstory to your AI assistant and work on your stories in plain words. T
 - see your stories, chapters and reels, and how each story is doing: visitors, visits, how far people watched and which buttons they tapped;
 - make a new draft story, add reels, change captions, titles and buttons, move or duplicate reels, and find and replace words across a story;
 - bring in photos and portrait videos from a link or a file, or give you an upload page for your phone;
-- make a private preview link of a draft, or a share link for a live reel to send to someone;
+- make a preview link of a draft, or a share link for a live reel to send to someone;
 - read the comments on your stories, the chats with your brands, and your orders (number, date, items, total, status and the buyer's first name).
 
 This repository holds no code: Webstory is a hosted service. It has the logo and the configuration files that AI apps and directories read. The server is at
